@@ -4,6 +4,7 @@ intents:
   - fillersentence
   - greet
   - goodbye
+  - nonsence
   # - affirm
   # - deny
   # - mood_great

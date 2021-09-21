@@ -66,6 +66,13 @@ nlu:
     - 良い1日を
     - またどこかで
 
+- intent: nonsence
+  examples: |
+    - アイウエオ
+    - あいうえお
+    - かきくけこ
+    - あああああああああああ
+
 # - intent: affirm
 #   examples: |
 #     - yes
