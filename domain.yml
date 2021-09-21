@@ -2,8 +2,8 @@ version: "2.0"
 
 intents:
   - fillersentence
-  # - greet
-  # - goodbye
+  - greet
+  - goodbye
   # - affirm
   # - deny
   # - mood_great

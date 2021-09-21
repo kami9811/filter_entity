@@ -43,35 +43,25 @@ nlu:
     - "煩悩を排除し、視聴時間制限を設け、映写機風コントローラーで、[えー](filler)楽しく時間が節約できます"
     - "YouTubeを作業しながら見てると、[ええ](filler)気がついたら夜になってることがあります"
     - "そんな自分を戒めるために[まあ](filler)このアプリケーションを作りました"
-# - intent: greet
-#   examples: |
-#     - hey
-#     - hello
-#     - hi
-#     - hello there
-#     - good morning
-#     - good evening
-#     - moin
-#     - hey there
-#     - let's go
-#     - hey dude
-#     - goodmorning
-#     - goodevening
-#     - good afternoon
+- intent: greet
+  examples: |
+    - やあ
+    - こんにちは
+    - みなさんこんにちは
+    - おはようございます
+    - こんばんは
+    - やあどうも
+    - さあ行こう
+    - よお親友
 
-# - intent: goodbye
-#   examples: |
-#     - good afternoon
-#     - cu
-#     - good by
-#     - cee you later
-#     - good night
-#     - bye
-#     - goodbye
-#     - have a nice day
-#     - see you around
-#     - bye bye
-#     - see you later
+- intent: goodbye
+  examples: |
+    - また後で
+    - さようなら
+    - バイバイ
+    - おやすみ
+    - 良い1日を
+    - またどこかで
 
 # - intent: affirm
 #   examples: |
